@@ -1,0 +1,19 @@
+.tags-view-wrapper .tags-view-item{
+    margin-left: 25px;
+    float: left;
+  }
+   
+  .el-icon-close  {
+    height: 16px;
+    width: 15px;
+    float: left;
+  } 
+
+  .linkname{
+    float: left;
+  }
+
+  .active{
+    font-size: 25px;
+    color:blue;
+  }
